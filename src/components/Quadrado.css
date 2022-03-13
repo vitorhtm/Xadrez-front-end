@@ -1,0 +1,20 @@
+.quadrado {
+  width: 100px;
+  height: 100px;
+  background: #582f0e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.branco {
+  background-color: #a4ac86;
+}
+
+.Branco {
+  color: #ffba08;
+}
+
+.Preto {
+  color: brown;
+}

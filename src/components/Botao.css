@@ -1,0 +1,7 @@
+.botao {
+  background-color: yellowgreen;
+  border-radius: 5px;
+  border-color: black;
+  margin: 10px;
+  box-shadow: 2px 5px 5px rgba(50, 50, 50, 0.77);
+}

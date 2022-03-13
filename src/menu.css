@@ -1,0 +1,16 @@
+.menu {
+  background-color: #cd853f;
+  margin: 40px;
+  width: 300px;
+  height: 300px;
+  box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+  display: flex;
+}
+
+.coluna {
+  flex-direction: column;
+}
+
+.titulo {
+  align-items: center;
+}

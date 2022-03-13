@@ -1,0 +1,5 @@
+.Linha {
+  border-color: red;
+  display: flex;
+  gap: 5px;
+}

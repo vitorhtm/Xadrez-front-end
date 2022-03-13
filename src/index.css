@@ -1,13 +1,32 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url("https://inhabitat.com/wp-content/blogs.dir/1/files/2018/02/wood-889x593.jpg");
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.flexbox {
+  display: flex;
+  gap: 5px 5px;
+  margin: 30px;
+  flex-direction: column;
+  align-items: center;
+  background-color: black;
+  box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+}
+
+.fundo {
+  background-color: black;
+}
+
+.flex {
+  display: flex;
 }

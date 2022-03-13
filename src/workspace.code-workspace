@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../tabuleiro/backend"
+	},
+	{
+		"path": "../../../tabuleiro/__pycache__"
+	}
+],
+  "settings": {}
+}

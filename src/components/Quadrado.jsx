@@ -32,6 +32,5 @@ const Quadrados = ({color, peca , posicao, mover}) => {
      );
 }
 
-console.log(Quadrados)
  
 export default Quadrados;
